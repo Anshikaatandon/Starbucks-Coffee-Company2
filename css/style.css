@@ -568,7 +568,7 @@ button.btn.btn-outline-success.btn2:hover{
     width: 100%;
     text-align: center;
 }
-}
+
 .num {
     display: flex;
     gap: 45px;
@@ -799,5 +799,8 @@ button.btn.btn-outline-success.btn2:hover{
     text-decoration: underline;
     font-weight: 800;
 }
+
+
+
 
 

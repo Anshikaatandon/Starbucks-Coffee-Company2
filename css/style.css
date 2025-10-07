@@ -433,7 +433,7 @@ button.btn.btn-outline-success.btn2:hover{
     text-align: center;
 }
 .toastu{
-    height: 75%;
+    height: 100%;
     width: 100%;
     display: flex;
     flex-direction: row;

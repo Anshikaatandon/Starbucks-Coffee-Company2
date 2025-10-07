@@ -545,6 +545,12 @@ button.btn.btn-outline-success.btn2:hover{
 .anst{
     font-size: 23px;font-weight: 400;margin-top: 15px;width: 50%; text-align: center;
 }
+.bilu {
+    display: flex;
+    gap: 16px;
+    /* align-items: center; */
+    flex-direction: row;
+}
 
 
 
@@ -556,13 +562,14 @@ button.btn.btn-outline-success.btn2:hover{
     color: #174317;
     font-weight: 600;
     text-align: left;
+    margin-top: 20px;
 }
 .shamb {
     font-weight: 600;
-    font-size: 26px;
+    font-size: 23px;
 }
 .anst{
-    font-size: 20px;
+    font-size: 17px;
     font-weight: 400;
     margin-top: 15px;
     width: 100%;
@@ -579,7 +586,7 @@ button.btn.btn-outline-success.btn2:hover{
     flex-wrap: wrap;
 }
 .toastu {
-        height: 100%;
+        height: 50%;
          width: 100%;
         display: flex;
         flex-direction: column;
@@ -602,7 +609,8 @@ button.btn.btn-outline-success.btn2:hover{
     align-items: flex-start;
     gap: 20px;
     width: 100%;
-    margin-top: 0px}
+    margin-top: 0px
+}
 
     .imu {
     width: 100%;
@@ -630,7 +638,7 @@ button.btn.btn-outline-success.btn2:hover{
     display: flex;
     gap: 16px;
     /* align-items: center; */
-    flex-direction: row;
+    flex-direction: column;
 }
 .d-flex {
     display: flex !important;
@@ -799,8 +807,5 @@ button.btn.btn-outline-success.btn2:hover{
     text-decoration: underline;
     font-weight: 800;
 }
-
-
-
 
 

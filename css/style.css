@@ -635,23 +635,23 @@ button.btn.btn-outline-success.btn2:hover{
     justify-content: flex-start;
 }
 .bilu {
-    display: flex;
-    gap: 16px;
-    /* align-items: center; */
-    flex-direction: column;
-}
-.d-flex {
-    display: flex !important;
-    flex-direction: column;
-    align-items: center;
+        display: flex
+;
+        gap: 16px;
+        /* align-items: center; */
+        flex-direction: column;
+    }
 
-}
+.d-flex {
+        display: flex !important;
+        flex-direction: column;
+        align-items: center;
+    }
+
 .omega {
      width: 100%;
      padding-left: 0px;
-    margin-top: 60px;
-}
-   
+    margin-top: 60px;}
     .si{
         width: 0%;
     }
@@ -809,5 +809,3 @@ button.btn.btn-outline-success.btn2:hover{
     text-decoration: underline;
     font-weight: 800;
 }
-
-

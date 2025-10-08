@@ -642,7 +642,7 @@ button.btn.btn-outline-success.btn2:hover{
 }
 .d-flex {
     display: flex !important;
-    flex-direction: row;
+    flex-direction: column;
     align-items: center;
 
 }

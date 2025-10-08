@@ -647,9 +647,11 @@ button.btn.btn-outline-success.btn2:hover{
 
 }
 .omega {
-     width: 0%;
+     width: 100%;
      padding-left: 0px;
-    margin-top: 60px;}
+    margin-top: 60px;
+}
+   
     .si{
         width: 0%;
     }
